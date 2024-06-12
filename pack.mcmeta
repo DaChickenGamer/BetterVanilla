@@ -1,0 +1,57 @@
+{
+    "pack" : {
+        "pack_format": 18,
+        "description": "Just trying to make minecraft better"
+    },
+    "filter": {
+        "block": [{
+            "namespace": "minecraft",
+            "path": "recipes/white_bed.json"
+        }, {
+            "namespace": "minecraft",
+            "path": "recipes/orange_bed.json"
+        }, {
+            "namespace": "minecraft",
+            "path": "recipes/magenta_bed.json"
+        }, {
+            "namespace": "minecraft",
+            "path": "recipes/light_blue_bed.json"
+        }, {
+            "namespace": "minecraft",
+            "path": "recipes/yellow_bed.json"
+        }, {
+            "namespace": "minecraft",
+            "path": "recipes/lime_bed.json"
+        }, {
+            "namespace": "minecraft",
+            "path": "recipes/pink_bed.json"
+        }, {
+            "namespace": "minecraft",
+            "path": "recipes/gray_bed.json"
+        }, {
+            "namespace": "minecraft",
+            "path": "recipes/light_gray_bed.json"
+        }, {
+            "namespace": "minecraft",
+            "path": "recipes/cyan_bed.json"
+        }, {
+            "namespace": "minecraft",
+            "path": "recipes/purple_bed.json"
+        }, {
+            "namespace": "minecraft",
+            "path": "recipes/blue_bed.json"
+        }, {
+            "namespace": "minecraft",
+            "path": "recipes/brown_bed.json"
+        }, {
+            "namespace": "minecraft",
+            "path": "recipes/green_bed.json"
+        }, {
+            "namespace": "minecraft",
+            "path": "recipes/red_bed.json"
+        }, {
+            "namespace": "minecraft",
+            "path": "recipes/black_bed.json"
+        }]
+    }
+}
